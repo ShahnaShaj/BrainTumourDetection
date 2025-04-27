@@ -13,10 +13,10 @@ The goal was to build an accurate, efficient classification model to distinguish
 - **IDE**: Jupyter Notebook
 
 ## 🏗️ Model Architectures and Contributors
-- **ResNet-34: Tehzeeb**
-- **ResNet-50: Abeer**
-- **ResNet-101: Palika**
-- **ResNet-152: Shahna**
+- **ResNet-34: Tehzeeb https://drive.google.com/file/d/1tss5qsg3hhXTJPbVEVYoPsuRy5m2WKSp/view?usp=drive_link**
+- **ResNet-50: Abeer https://drive.google.com/file/d/1vUSWxY-cF4PqrLd9r43EZ9wWyL4mP317/view?usp=drive_link**
+- **ResNet-101: Palika https://drive.google.com/file/d/1BMuGxVBE2NhlmmzbFt6XOcfztYTwM2Wq/view?usp=drive_link**
+- **ResNet-152: Shahna https://drive.google.com/file/d/1UTZacGtd21cXD7DRB1GrBe8mIyJP0hXi/view?usp=drive_link**
 
 Each model was:
 - Modified to output **2 classes**: **tumor** and **no tumor**.
